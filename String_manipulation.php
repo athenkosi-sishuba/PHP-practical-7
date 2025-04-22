@@ -5,11 +5,15 @@
     </head>
     <body>
     <?php
- //question 1
+
 // Declare variables for student information
 $studentName = "Athi";
-$studentAge = 19;
-$studentGrade = "Sishuba";
+$studentAge = 20;
+$studentsurname = "Sishuba";
+//print the stored varriables
+echo "Name : ".$studentName."<br>";
+echo "Age : ".$studentAge."<br>";
+echo  "Surname : ".$studentsurname."<br>";
 
 ?>    
         
