@@ -1,6 +1,6 @@
 <html>
   <head>
-      <title>Question 5 (Fucntions)</title>
+      <title> (Fucntions)</title>
   </head>  
     <body>
     <?php
