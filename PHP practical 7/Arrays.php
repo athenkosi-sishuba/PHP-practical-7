@@ -1,7 +1,7 @@
 
 <html>
     <head>
-		<title>Question 4 (Arrays)</title>
+		<title>Movies</title>
     </head>
     <body>
 <?php
