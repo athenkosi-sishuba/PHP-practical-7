@@ -25,19 +25,6 @@
 
 		echo $processedText;
 ?>
-
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		</body>
 
 
